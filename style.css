@@ -1,0 +1,36 @@
+.intestazione
+{
+    background-image: url(img/pattern.png);
+    background-size: auto;
+    background-color: rgb(0, 110, 255);
+    height:150px;
+}
+
+#sotto_intestazione
+{
+    color : gray;
+}
+#riferimento
+{
+    color: rgb(0, 140, 255);
+}
+#testo_evidenziato
+{
+    background-color:yellow ;
+    
+}
+#testo
+{
+    margin-top: 50px;
+}
+.lista
+{
+    margin-left: -20px;
+}
+#testa_della_tabella{
+    background-color: lightblue;
+}
+.riga_coloreazzurro
+{
+    background-color: aqua;
+}
