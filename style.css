@@ -36,14 +36,14 @@
 }
 .contenitore
 {
-    position: relative;
+    position: relative; /*inserito contenitore come position relative per poter inserire la scitta all' interno*/
     
 
 }
 .scritta
 {
-    position: absolute;
-    left: 0;
+    position: absolute;/*per scrivere sull' immagine*/
+    left: 0;/*oisizioni della scitta*/
     top: 0;
     color: white;
     font-size: 30px;
