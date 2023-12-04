@@ -34,3 +34,17 @@
 {
     background-color: aqua;
 }
+.contenitore
+{
+    position: relative;
+    
+
+}
+.scritta
+{
+    position: absolute;
+    left: 0;
+    top: 0;
+    color: white;
+    font-size: 30px;
+}
