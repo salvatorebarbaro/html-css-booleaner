@@ -48,3 +48,7 @@
     color: white;
     font-size: 30px;
 }
+table
+{
+    border-spacing: 0px;
+}
